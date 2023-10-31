@@ -6,17 +6,18 @@
 </p>
 
 
-# What is VPS Statistics Web ?
-VPS Statistics Web 📊 can analyze Youre System Informations(OS, Host Name, Relese Name, Version Name, Machine Type, Up Time), CPU Informations and CPU Usage, RAM Usage and HDD Usage.
 
-# What does it show ?
-* Graph and sections with HDD, CPU and RAM usage
-* System Informations
-* CPU Informations and CPU Usage
-* RAM Usage
-* HDD Usage
+# ¿Qué es VPS Statistics Web?
+VPS Statistics Web 📊 es una herramienta que puede analizar la información de tu sistema, incluyendo el sistema operativo, el nombre del host, el nombre de la versión, el tipo de máquina y el tiempo de actividad. También muestra información sobre el uso de la CPU y la memoria RAM, así como el uso del disco duro.
 
-#How to Install VPS Statistics Web to Youre VPS ? (Automatic Installer)
-* `wget https://raw.githubusercontent.com/hirunaofficial/VPS-Statistics-Web/main/install.sh`
+# ¿Qué muestra?
+* Gráficos y secciones con el uso del disco duro, la CPU y la RAM.
+* Información del sistema.
+* Información de la CPU y el uso de la CPU.
+* Uso de la RAM.
+* Uso del disco duro.
+
+# ¿Como se puede instalar? Respuesta: copia cada uno de los siguientes comandos, 
+* `wget https://github.com/cristianmusica/VPS-Statistics-Web-better/main/install.sh`
 * `chmod -R 777 install.sh`
 * `./install.sh`
