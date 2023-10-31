@@ -17,7 +17,14 @@ VPS Statistics Web 📊 es una herramienta que puede analizar la información de
 * Uso de la RAM.
 * Uso del disco duro.
 
-# ¿Como se puede instalar? Respuesta: copia cada uno de los siguientes comandos, 
+# ¿Como se puede instalar? Respuesta: copia cada uno de los siguientes comandos?
 * `wget https://github.com/cristianmusica/VPS-Statistics-Web-better/main/install.sh`
 * `chmod -R 777 install.sh`
 * `./install.sh`
+
+# ¿Que debó de hacer en caso que no me funcionen los comandos anteriores?
+
+<a Interesante pregunta, pero lo que tendras que hacer vas a tener que ejecutar los siguientes comandos>
+*  `git clone https://github.com/cristianmusica/VPS-Statistics-Web-better/`
+*  `cd VPS-Statistics-Web-better`
+*  `./Easy.sh`
