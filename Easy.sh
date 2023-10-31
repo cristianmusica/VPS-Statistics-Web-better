@@ -1,6 +1,9 @@
 #!/bin/bash
 
 sudo su
-echo "Hagámoslo simple, lo instalaré por ti de forma automatizada."
-chmod -R 777 install.sh
-./install.sh
+
+apt update -y
+
+apt install python3 -y
+
+apt install python2 -y
