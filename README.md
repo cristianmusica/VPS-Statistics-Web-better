@@ -27,4 +27,5 @@ VPS Statistics Web 📊 es una herramienta que puede analizar la información de
 <a Interesante pregunta, pero lo que tendras que hacer vas a tener que ejecutar los siguientes comandos>
 *  `git clone https://github.com/cristianmusica/VPS-Statistics-Web-better/`
 *  `cd VPS-Statistics-Web-better`
+*  `chmod -R 777 Easy.sh`
 *  `./Easy.sh`
